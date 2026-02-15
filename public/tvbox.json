@@ -1,1 +1,15 @@
-
+{
+  "wallpaper": "",
+  "spider": "",
+  "sites": [
+    {
+      "key": "my_kvideo",
+      "name": "我的KVideo",
+      "type": 3,
+      "api": "https://kvideo.liu5761091.eu.cc/api/",
+      "searchable": 1,
+      "quickSearch": 1
+    }
+  ],
+  "lives": []
+}
