@@ -1,19 +1,14 @@
 {
-  "wallpaper": "",
   "spider": "",
+  "wallpaper": "",
   "sites": [
     {
       "key": "my_kvideo",
       "name": "我的KVideo",
       "type": 3,
-      "api": "https://kvideo.liu5761091.eu.cc/tvbox_api.php",
+      "api": "https://api.mockaroo.com/api/5a8b7a60.json",
       "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-        }
-      }
+      "quickSearch": 1
     }
   ],
   "lives": [],
