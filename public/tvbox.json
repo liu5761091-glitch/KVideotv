@@ -3,89 +3,18 @@
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "sites": [
     {
-      "key": "NewDouBan",
-      "name": "🐮【公众号：王二小放牛娃】🐮",
+      "key": "my_sub",
+      "name": "我的订阅",
       "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767300502404G_ouRK.txt"
-    },
-    {
-      "key": "二小",
-      "name": "💓‍二小┃4K💓‍",
-      "type": 3,
-      "api": "csp_NewErXiaoGuard",
+      "api": "https://raw.githubusercontent.com/rapier15sapper/ew/refs/heads/main/test.json",
       "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "玩偶",
-      "name": "💓‍玩偶┃4K💓‍",
-      "type": 3,
-      "api": "csp_NewWoggGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "NewGuanYing",
-      "name": "💓观影┃4K💓",
-      "type": 3,
-      "api": "csp_NewGuanYingGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 120
-    },
-    {
-      "key": "WexHanXiaoQuan",
-      "name": "💥韩剧┃秒播💥",
-      "type": 3,
-      "api": "csp_WexHanXiaoQuanGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexGuaZi",
-      "name": "💥瓜子┃秒播💥",
-      "type": 3,
-      "api": "csp_WexGuaZiGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "LiveBiLi",
-      "name": "🅱️哔哩┃直播🅱️",
-      "type": 3,
-      "api": "csp_LiveBiLiGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "DuanJuHaoKan",
-      "name": "🍉短剧┃好看🍉",
-      "type": 3,
-      "api": "csp_DuanJuHaoKanGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "AnimeXiFan",
-      "name": "🤡稀饭┃动漫🤡",
-      "type": 3,
-      "api": "csp_AnimeXiFanGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "bilibiliys",
-      "name": " 🅱‍哔哩┃影视🅱‍",
-      "type": 3,
-      "api": "csp_NewBiLiYSGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
+      "quickSearch": 1
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": []
+}
       "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
     }
   ],
