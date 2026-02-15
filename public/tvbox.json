@@ -3,12 +3,13 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "demo_source",
-      "name": "稳定测试源",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/xxm011/tvbox/refs/heads/main/xiaoyao.json",
+      "key": "okys_ys",
+      "name": "OK影视专用源",
+      "type": 1,
+      "api": "https://api.pan98.cc/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [],
