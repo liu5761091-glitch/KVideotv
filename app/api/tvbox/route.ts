@@ -1,6 +1,4 @@
-import { NextRequest } from 'next/server';
-
-export async function GET(request: NextRequest) {
+export async function GET(request) {
   const host = request.headers.get('host');
   const proto = request.headers.get('x-forwarded-proto') || 'https';
   const site = `${proto}://${host}`;
