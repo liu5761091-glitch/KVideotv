@@ -1,17 +1,1 @@
-{
-  "spider": "",
-  "wallpaper": "",
-  "sites": [
-    {
-      "key": "my_kvideo",
-      "name": "我的KVideo",
-      "type": 3,
-      "api": "https://api.mockaroo.com/api/5a8b7a60.json",
-      "searchable": 1,
-      "quickSearch": 1
-    }
-  ],
-  "lives": [],
-  "parses": [],
-  "flags": []
-}
+https://github.com/liu5761091-glitch/KVideotv/edit/main/public/tvbox.json?enable_bottom_share_style=1&hybrid_event_param=HybridEventParams(enterMethod%3Dmessage_markdown_url%2C%20localPage%3Dchat%2C%20chatType%3Ddefault%2C%20duration%3D0%2C%20isRichMediaPictureLink%3Dfalse%2C%20mobMap%3D%7Brecommend_from%3Dchat_list%2C%20message_id%3D38326814450119938%2C%20previous_page%3Dchat_list%2C%20is_immersive_background%3D0%2C%20chat_type%3Ddefault%2C%20reply_id%3D38326814450119170%2C%20enter_method%3Dclick_chat%2C%20conversation_id%3D1758115747765762%2C%20enter_chat_method%3Dclick_chat%2C%20bot_id%3D7234781073513644036%2C%20current_page%3Dchat%7D%2C%20extra%3Dnull)&use_xbridge3=true&loader_name=forest&need_sec_link=1&sec_link_scene=im&theme=light
