@@ -14,9 +14,15 @@ echo json_encode([
         "list" => [
             [
                 "vod_id" => "1",
-                "vod_name" => "测试视频",
-                "vod_pic" => "https://picsum.photos/400/600",
-                "vod_remarks" => "已正常显示"
+                "vod_name" => "流浪地球",
+                "vod_pic" => "https://picsum.photos/400/600?random=1",
+                "vod_remarks" => "HD"
+            ],
+            [
+                "vod_id" => "2",
+                "vod_name" => "狂飙",
+                "vod_pic" => "https://picsum.photos/400/600?random=2",
+                "vod_remarks" => "40集全"
             ]
         ]
     ]
