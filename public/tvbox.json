@@ -1,6 +1,6 @@
 {
-  "spider": "",
   "wallpaper": "",
+  "spider": "",
   "sites": [
     {
       "key": "my_kvideo",
@@ -8,7 +8,12 @@
       "type": 3,
       "api": "https://kvideo.liu5761091.eu.cc/tvbox_api.php",
       "searchable": 1,
-      "quickSearch": 1
+      "quickSearch": 1,
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+        }
+      }
     }
   ],
   "lives": [],
