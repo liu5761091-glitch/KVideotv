@@ -1,2 +1,141 @@
-
-https://github.com/liu5761091-glitch/KVideotv/edit/main/public/tvbox.json?enable_bottom_share_style=1&hybrid_event_param=HybridEventParams(enterMethod%3Dmessage_markdown_url%2C%20localPage%3Dchat%2C%20chatType%3Ddefault%2C%20duration%3D0%2C%20isRichMediaPictureLink%3Dfalse%2C%20mobMap%3D%7Brecommend_from%3Dchat_list%2C%20message_id%3D38328419138182146%2C%20previous_page%3Dchat_list%2C%20is_immersive_background%3D0%2C%20chat_type%3Ddefault%2C%20reply_id%3D38328419138181890%2C%20enter_method%3Dclick_chat%2C%20conversation_id%3D1758115747765762%2C%20enter_chat_method%3Dclick_chat%2C%20bot_id%3D7234781073513644036%2C%20current_page%3Dchat%7D%2C%20extra%3Dnull)&use_xbridge3=true&loader_name=forest&need_sec_link=1&sec_link_scene=im&theme=light
+{
+  "spider": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1771011556502ruLdrH.txt;md5;695e61b3dc1d5ba2f510f0bc17c125a3",
+  "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
+  "sites": [
+    {
+      "key": "NewDouBan",
+      "name": "🐮【公众号：王二小放牛娃】🐮",
+      "type": 3,
+      "api": "csp_NewDouBanGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767300502404G_ouRK.txt"
+    },
+    {
+      "key": "二小",
+      "name": "💓‍二小┃4K💓‍",
+      "type": 3,
+      "api": "csp_NewErXiaoGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "玩偶",
+      "name": "💓‍玩偶┃4K💓‍",
+      "type": 3,
+      "api": "csp_NewWoggGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "NewGuanYing",
+      "name": "💓观影┃4K💓",
+      "type": 3,
+      "api": "csp_NewGuanYingGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120
+    },
+    {
+      "key": "WexHanXiaoQuan",
+      "name": "💥韩剧┃秒播💥",
+      "type": 3,
+      "api": "csp_WexHanXiaoQuanGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexGuaZi",
+      "name": "💥瓜子┃秒播💥",
+      "type": 3,
+      "api": "csp_WexGuaZiGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "LiveBiLi",
+      "name": "🅱️哔哩┃直播🅱️",
+      "type": 3,
+      "api": "csp_LiveBiLiGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "DuanJuHaoKan",
+      "name": "🍉短剧┃好看🍉",
+      "type": 3,
+      "api": "csp_DuanJuHaoKanGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "AnimeXiFan",
+      "name": "🤡稀饭┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeXiFanGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "bilibiliys",
+      "name": " 🅱‍哔哩┃影视🅱‍",
+      "type": 3,
+      "api": "csp_NewBiLiYSGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com"
+      ]
+    }
+  ],
+  "ads": [
+    "mozai.4gtv.tv",
+    "pv.vipwm.cc"
+  ],
+  "lives": [
+    {
+      "name": "冰茶",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    }
+  ],
+  "headers": [
+    {
+      "host": "hlsztemgsplive.miguvideo.com",
+      "header": {
+        "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+      }
+    }
+  ]
+}
